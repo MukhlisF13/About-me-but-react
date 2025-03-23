@@ -50,7 +50,7 @@ function Hobbies() {
       <hr />
 
       <div>
-        <img src="piano.jpg" alt="Piano" height="212" width="565" />
+        <img src="Piano.jpg" alt="Piano" height="212" width="565" />
         <p>
           I am currently trying to learn piano. So far I know the basics but struggle playing chords and with two hands.
         </p>
